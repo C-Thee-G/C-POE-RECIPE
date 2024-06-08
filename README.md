@@ -1,7 +1,6 @@
 # C-POE-RECIPE
-C# POE (RECIPE FILTERS)
-
-# DM ME ON WHATSAPP(063 104 9072) IF YOU NEED THE SOURCE CODE:R300
+C# POE (Recipe Filters)
+If you require the source code, please contact me on WhatsApp at +27 63 104 9072. The cost is R300
 
 # SCREENSHOTS
 ![HOMEPAGE](https://github.com/C-Thee-G/C-POE-RECIPE/assets/107345987/dc3e02c4-8322-4da8-9d07-101447f3ea17)
